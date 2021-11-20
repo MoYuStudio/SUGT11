@@ -1,0 +1,4 @@
+mtl Material::shadow_mat
+blend modulate
+shader legacy_tex
+depthwrite false
