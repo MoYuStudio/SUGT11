@@ -1,8 +1,0 @@
-anim
-lightOff 0
-lightON 1 1 loop
-
-mtl Material::add_mat
-shader legacy_tex
-depthwrite false
-blend add
